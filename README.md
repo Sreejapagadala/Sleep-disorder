@@ -1,33 +1,50 @@
-# Sleep Disorder Prediction
+# Sleep Disorder Prediction Using Machine Learning
 
-This project analyzes health and lifestyle data to predict sleep disorders using machine learning techniques.
+## Overview
+This project focuses on predicting sleep disorders using machine learning techniques based on physiological and lifestyle parameters. The system aims to assist in early diagnosis of sleep disorders such as Insomnia and Sleep Apnea.
 
-## Features
-- Data preprocessing and cleaning
-- Exploratory data analysis (EDA)
-- ML model training with Scikit-Learn
-- Performance evaluation and visualization
+## Objectives
+- Analyze sleep-related health data
+- Build predictive machine learning models
+- Compare performance of multiple classifiers
+- Improve early detection of sleep disorders
 
-## Technologies Used
+## Dataset
+The dataset includes attributes such as:
+- Age
+- Gender
+- Sleep Duration
+- Physical Activity Level
+- Stress Level
+- Heart Rate
+- BMI
+- Sleep Disorder (Target Variable)
+
+## Machine Learning Models Used
+- Logistic Regression
+- Support Vector Machine (SVM)
+- K-Nearest Neighbors (KNN)
+- Random Forest Classifier
+
+## Tools & Technologies
 - Python
 - NumPy
 - Pandas
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- Imbalanced-learn
+- Scikit-learn
+- Matplotlib / Seaborn
+- Jupyter Notebook
+
+## Results
+Among all models, Random Forest achieved the highest accuracy in predicting sleep disorders.
 
 ## How to Run
+1. Clone the repository  
+git clone https://github.com/Sreejapagadala/Sleep-disorder.git
 
-### 1. Install dependencies
-```
+2. Install required libraries  
 pip install -r requirements.txt
-```
 
-### 2. Open the notebook
-```
-jupyter notebook "Health Prediction.ipynb"
-```
+3. Run the notebook or Python script
 
-## License
-MIT License
+## Author
+Sreeja Pagadala
