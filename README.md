@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17928218.svg)](https://doi.org/10.5281/zenodo.17928218)
+
+
 # Sleep Disorder Prediction Using Machine Learning
 
 ## Overview
