@@ -49,5 +49,8 @@ pip install -r requirements.txt
 
 3. Run the notebook or Python script
 
-## Author
-Sreeja Pagadala
+## Authors
+A.ChakriPriya
+P.Venkata Naga Sai Sreeja
+R.Giri sankar sai Krishna
+V.Dhanya Sree
