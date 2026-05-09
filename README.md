@@ -33,10 +33,11 @@ The dataset includes attributes such as:
 - Sleep Disorder (Target Variable)
 
 ## Machine Learning Models Used
--XGBoost
--Gradient Boosting
--Stacking Classifier
--CNN
+- XGBoost
+- Gradient Boosting
+- Stacking Classifier
+- CNN
+- Random Forest
 
 ## Tools & Technologies
 - Python
@@ -59,7 +60,7 @@ pip install -r requirements.txt
 3. Run the notebook or Python script
 
 ## Authors
-1.A.ChakriPriya
-2.P.Venkata Naga Sai Sreeja
-3.R.Giri sankar sai Krishna
-4.V.Dhanya Sree
+1. A.ChakriPriya
+2. P.Venkata Naga Sai Sreeja
+3. R.Giri sankar sai Krishna
+4. V.Dhanya Sree
