@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17928218.svg)](https://doi.org/10.5281/zenodo.17928218)
 
 
-# Sleep Disorder Prediction Using Machine Learning
+# Sleep Disorder Prediction based on daily life activities Using SMOTE approach
 
 ## Overview
 This project focuses on predicting sleep disorders using machine learning techniques based on physiological and lifestyle parameters. The system aims to assist in early diagnosis of sleep disorders such as Insomnia and Sleep Apnea.
